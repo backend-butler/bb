@@ -1,0 +1,6 @@
+# Files that must never be committed
+*.key
+*.pem
+*.env
+vault/
+registry.local*
